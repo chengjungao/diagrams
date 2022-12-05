@@ -1,1 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T12:48:14.858Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="-82npZr-isjYCtvVSf2t" type="github"><diagram id="1ziBkIOy0aIOfrTeset_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-05T13:21:23.333Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="nKRhwJShWMVTyYxd1StV" version="20.5.3" type="github">
+  <diagram id="1ziBkIOy0aIOfrTeset_" name="第 1 页">
+    <mxGraphModel dx="1773" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4rep5bl105MdZM5S8P01-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="110" width="940" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;curved=1;strokeWidth=5;" edge="1" parent="1" source="4rep5bl105MdZM5S8P01-3" target="4rep5bl105MdZM5S8P01-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="130" width="130" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.documents;" vertex="1" parent="1">
+          <mxGeometry x="108" y="170" width="64" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-5" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.documents;" vertex="1" parent="1">
+          <mxGeometry x="108" y="270" width="64" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-6" value="一个段中包含很多文档" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="130" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Segment m&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="380" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-9" value="documents" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="114" y="344" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-10" value="documents" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="110" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;...&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="104" y="420" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="79" y="450" width="130" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-13" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.documents;" vertex="1" parent="1">
+          <mxGeometry x="107" y="490" width="64" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-15" value="一个段中包含很多文档" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="79" y="450" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Segment n&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="79" y="600" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-18" value="documents" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="109" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry y="150" width="70" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-22" value="一个Index由很多段组成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#CCE5FF;strokeColor=#d6b656;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="140" width="480" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-24" value="Segment info" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="79" y="640" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-25" value="Lock" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="79" y="690" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-27" value=".fnm;&lt;br&gt;存储索引域（字段）信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="170" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-28" value="&lt;div&gt;.fdt;&lt;/div&gt;&lt;div&gt;文档存储的字段的值&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="170" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-29" value="&lt;div&gt;.fdx;&lt;/div&gt;&lt;div&gt;保存指向field data的指针&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-30" value="&lt;div&gt;.tim;&lt;/div&gt;&lt;div&gt;term词典，存储term信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="335" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-31" value="&lt;div&gt;.tip;&lt;/div&gt;&lt;div&gt;指向词典的索引&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="335" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-32" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;&amp;nbsp; .doc;&lt;/div&gt;&lt;div&gt;词频列表&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="410" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-33" value="&lt;div&gt;.pos;&lt;/div&gt;&lt;div&gt;存储在索引中的term的位置信息&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;sketch=0;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="410" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4rep5bl105MdZM5S8P01-34" value="其他文件类型如：.nvd、.nvm、.pay等文件这里就不做介绍了" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="350" y="500" width="420" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
